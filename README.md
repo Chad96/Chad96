@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Chadrack Ndalamba. I am a young, professional, hardworking individual who is always motivated to show the best version of myself. I am an aspiring full-stack software engineer and a quality-conscious person with top-notch teamwork and customer skills. I have excellent communication skills, very good at multitasking, and I adhere to deadlines.
+
 <!--
 **Chad96/Chad96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
