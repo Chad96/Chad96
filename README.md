@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/chadrack-ndalamba-442139137/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chadrack-ndalamba-442139137/" height="30" width="40" /></a>
 <a href="https://web.facebook.com/chad.rsa.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chad ndalamba" height="30" width="40" /></a>
-<a href="https://instagram.com/chad.rsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chad_logix" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chad.rsa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chad_logix" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
