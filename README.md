@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Chadrack+Ndalamba;Full-Stack+Software+Engineer;Building+from+idea+to+deployment" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Chadrack+Ndalamba;Full-Stack+Software+Engineer;MERN+Stack+Developer;Building+from+idea+to+deployment" alt="Typing SVG" />
 
 <p align="center">
   <em>Passionate full-stack engineer from South Africa 🇿🇦 — building clean, performant web experiences.</em>
@@ -33,7 +33,7 @@
 name:       Chadrack Ndalamba
 location:   South Africa 🇿🇦
 role:       Full-Stack Software Engineer
-focus:      React · Node.js · Python · TypeScript
+focus:      MERN Stack · TypeScript · Supabase · Firebase
 learning:   DevOps & Cloud Architecture
 available:  Open to new opportunities
 ask me:     Anything about web development!
@@ -45,22 +45,28 @@ ask me:     Anything about web development!
 
 ### 🛠️ Tech stack
 
+**MERN Stack**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=light&perline=10" alt="MERN stack icons" />
+</p>
+
 **Frontend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=light&perline=10" alt="Frontend icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,nextjs&theme=light&perline=10" alt="Frontend icons" />
 </p>
 
 **Backend & Database**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,c,mysql&theme=light&perline=10" alt="Backend icons" />
+  <img src="https://skillicons.dev/icons?i=python,c,mysql,postgres,supabase,firebase&theme=light&perline=10" alt="Backend & database icons" />
 </p>
 
-**Tools & Environment**
+**Automation & DevOps Tools**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,bash,figma&theme=light&perline=10" alt="Tools icons" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,bash,vscode,figma&theme=light&perline=10" alt="Automation & tools icons" />
 </p>
 
 ---
