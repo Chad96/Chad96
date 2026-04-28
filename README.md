@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=3000&pause=1000&color=534AB7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Chadrack+Ndalamba;Full-Stack+Software+Engineer;MERN+Stack+Developer;Building+from+idea+to+deployment" alt="Typing SVG" />
 
 <p align="center">
-  <em>Passionate full-stack engineer from South Africa 🇿🇦 — building clean, performant web experiences.</em>
+  <em>Passionate full-stack engineer from South Africa 🇿🇦. Building clean, performant web experiences.</em>
 </p>
 
 <p align="center">
