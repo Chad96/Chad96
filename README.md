@@ -34,9 +34,9 @@ name:       Chadrack Ndalamba
 location:   South Africa 🇿🇦
 role:       Full-Stack Software Engineer
 focus:      MERN Stack · TypeScript · Supabase · Firebase
-learning:   DevOps & Cloud Architecture
+learning:   DevOps · Cloud Architecture · AI Automation
 available:  Open to new opportunities
-ask me:     Anything about web development!
+ask me:     MERN Stack, AI automation, n8n & Make.com workflows!
 ```
 
 > *"Code is like humour. When you have to explain it, it's bad." — Cory House*
@@ -67,6 +67,12 @@ ask me:     Anything about web development!
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,bash,vscode,figma&theme=light&perline=10" alt="Automation & tools icons" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_AI-D4A017?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make.com"/>
 </p>
 
 ---
